@@ -1,0 +1,16 @@
+# Dependencies and build output (recreated by npm install / npm run build)
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+npm-debug.log*

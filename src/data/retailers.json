@@ -1,0 +1,3247 @@
+{
+ "meta": {
+  "asOf": "2026-10-10",
+  "fx": {
+   "USDCAD": 1.4256,
+   "date": "2026-10-09",
+   "source": "https://www.poundsterlinglive.com/history/USD-CAD-2026"
+  },
+  "engines": [
+   {
+    "key": "loyalty",
+    "label": "Loyalty & data"
+   },
+   {
+    "key": "fin",
+    "label": "Financial services"
+   },
+   {
+    "key": "media",
+    "label": "Retail media"
+   },
+   {
+    "key": "digital",
+    "label": "E-commerce"
+   },
+   {
+    "key": "intl",
+    "label": "International"
+   },
+   {
+    "key": "franchise",
+    "label": "Franchise & wholesale"
+   },
+   {
+    "key": "health",
+    "label": "Health & pharmacy"
+   },
+   {
+    "key": "services",
+    "label": "Paid services"
+   },
+   {
+    "key": "fuel",
+    "label": "Fuel & convenience"
+   },
+   {
+    "key": "food",
+    "label": "Foodservice"
+   },
+   {
+    "key": "private",
+    "label": "Own brands"
+   },
+   {
+    "key": "acq",
+    "label": "M&A"
+   },
+   {
+    "key": "logistics",
+    "label": "Owned logistics"
+   },
+   {
+    "key": "data",
+    "label": "AI pricing"
+   }
+  ]
+ },
+ "companies": [
+  {
+   "id": "L",
+   "name": "Loblaw Companies",
+   "short": "Loblaw",
+   "ticker": "TSX: L",
+   "sector": "Grocery & pharmacy",
+   "hq": "Brampton, ON",
+   "lat": 43.73,
+   "lon": -79.76,
+   "founded": 1919,
+   "banners": "Loblaws, No Frills, Real Canadian Superstore, Shoppers Drug Mart, T&T",
+   "fyEnd": "Early January (52/53 weeks)",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/L/",
+   "notes": [
+    "Roughly 70% of sales are food and 30% drug (Shoppers Drug Mart).",
+    "Most grocery stores are franchised, so headcount and store economics are not directly comparable with corporate-run chains."
+   ],
+   "ttm": {
+    "end": "2026-03-28",
+    "revenue": 64252,
+    "netIncome": 2758,
+    "growthPct": 6.3
+   },
+   "annual": [
+    {
+     "end": "2022-01-01",
+     "revenue": 53170
+    },
+    {
+     "end": "2022-12-31",
+     "revenue": 56504
+    },
+    {
+     "end": "2023-12-30",
+     "revenue": 59529
+    },
+    {
+     "end": "2024-12-28",
+     "revenue": 60123
+    },
+    {
+     "end": "2026-01-03",
+     "revenue": 63903
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-03-23",
+     "revenue": 13581,
+     "netIncome": 462,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2024-06-15",
+     "revenue": 13947,
+     "netIncome": 460,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2024-10-05",
+     "revenue": 18538,
+     "netIncome": 780,
+     "weeks": 16,
+     "source": null
+    },
+    {
+     "end": "2024-12-28",
+     "revenue": 14057,
+     "netIncome": 469,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-03-22",
+     "revenue": 13904,
+     "netIncome": 503,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-06-14",
+     "revenue": 14457,
+     "netIncome": 714,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-10-04",
+     "revenue": 19395,
+     "netIncome": 794,
+     "weeks": 16,
+     "source": null
+    },
+    {
+     "end": "2026-01-03",
+     "revenue": 15701,
+     "netIncome": 656,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-03-28",
+     "revenue": 14484,
+     "netIncome": 594,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2026-06-20",
+     "revenue": 15046,
+     "netIncome": 751,
+     "weeks": 12,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 31.37,
+    "opMargin": 7.18,
+    "roic": 12.37,
+    "ebitda": 5780,
+    "debt": 16580,
+    "cash": 1010,
+    "employees": 220000,
+    "invTurnover": 6.85,
+    "beta": 0.33,
+    "divYield": 0.99
+   },
+   "quote": {
+    "price": 62.68,
+    "ccy": "CAD",
+    "date": "2026-10-08",
+    "mcap": 72110,
+    "lo52": 54.3,
+    "hi52": 69.59
+   },
+   "stores": {
+    "n": 2500,
+    "label": "~2,500",
+    "basis": "Grocery + Shoppers Drug Mart, incl. franchised/associate-owned",
+    "date": "FY2025",
+    "src": "https://www.morningstar.com.au/investments/security/TSX/L/summary",
+    "conf": "approx"
+   },
+   "cashflow": {
+    "capex": 1747,
+    "ocf": 7020,
+    "fcf": 5273,
+    "dividends": 812,
+    "buybacks": 2068,
+    "end": "2026-06-20",
+    "note": "FY2025 dividends paid"
+   },
+   "forecast": {
+    "fy": "FY ending Jan 2027",
+    "thisRev": 65490,
+    "thisG": 2.49,
+    "nextRev": 68030,
+    "nextG": 3.87,
+    "analysts": 10,
+    "rating": "Buy",
+    "pt": 69.2,
+    "ptLo": 47.0,
+    "ptHi": 76.0,
+    "ptCcy": "CAD",
+    "updated": "2026-07-31"
+   },
+   "guidance": null,
+   "engines": {
+    "loyalty": {
+     "level": "core",
+     "evidence": "PC Optimum, one of Canada's largest loyalty programs"
+    },
+    "fin": {
+     "level": "exit",
+     "evidence": "Sold PC Financial to EQB; received $625M after Q2 2026; now books its share of EQB income"
+    },
+    "media": {
+     "level": "core",
+     "evidence": "Loblaw Advance retail-media network"
+    },
+    "digital": {
+     "level": "core",
+     "evidence": "E-commerce sales +19.3% in Q2 2026 (PC Express + third-party delivery)"
+    },
+    "health": {
+     "level": "core",
+     "evidence": "Pharmacy & healthcare services same-store sales +7.5% in Q2 2026"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "President's Choice and No Name house brands"
+    },
+    "franchise": {
+     "level": "core",
+     "evidence": "Most grocery stores run by franchisees; Shoppers by associate-owners"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-07-30",
+     "type": "Store network",
+     "action": "Opened 14 stores in Q2, including 7 hard-discount and 3 drug stores",
+     "impact": "Discount banners outperformed",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-07-30",
+     "type": "Divestiture",
+     "action": "Closed sale of PC Financial to EQB",
+     "impact": "$625M cash received",
+     "status": "Done"
+    },
+    {
+     "date": "2026-07-30",
+     "type": "Capital return",
+     "action": "About $2.1B of share buybacks planned for 2026",
+     "impact": "$552M bought back in Q2",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-01",
+     "type": "Store network",
+     "action": "Raised the number of new stores planned for 2026",
+     "impact": "Count not disclosed in source",
+     "status": "In progress"
+    }
+   ],
+   "actions": [
+    "Keep shifting the mix to hard discount and pharmacy services, the two lines growing fastest while conventional grocery comps slow to 1.6%.",
+    "Monetize the PC Optimum data asset through Loblaw Advance now that PC Financial is gone, to replace that lost profit stream.",
+    "Hold the $2.1B buyback pace only while free cash flow (C$5.3B TTM) stays above 2.5× capex."
+   ],
+   "sources": [
+    "https://retail-insider.com/retail-insider/2026/07/loblaw-reports-q2-revenue-growth-of-4-1/",
+    "https://www.ctvnews.ca/business/article/loblaw-increases-the-number-of-new-stores-planned-for-2026/"
+   ]
+  },
+  {
+   "id": "ATD",
+   "name": "Alimentation Couche-Tard",
+   "short": "Couche-Tard",
+   "ticker": "TSX: ATD",
+   "sector": "Convenience & fuel",
+   "hq": "Laval, QC",
+   "lat": 45.57,
+   "lon": -73.69,
+   "founded": 1980,
+   "banners": "Circle K, Couche-Tard, Ingo",
+   "fyEnd": "Late April",
+   "reportsIn": "USD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/ATD/",
+   "notes": [
+    "Reports in US dollars; converted to CAD at the Oct 9, 2026 close.",
+    "Revenue includes road-transportation fuel, so margins and revenue per store sit on a different scale from merchandise retailers.",
+    "Only a small share of its stores are in Canada."
+   ],
+   "ttm": {
+    "end": "2026-07-19",
+    "revenue": 115281.14,
+    "netIncome": 4547.66,
+    "growthPct": 12.43
+   },
+   "annual": [
+    {
+     "end": "2022-04-24",
+     "revenue": 89541.94
+    },
+    {
+     "end": "2023-04-30",
+     "revenue": 102439.34
+    },
+    {
+     "end": "2024-04-28",
+     "revenue": 98742.76
+    },
+    {
+     "end": "2025-04-27",
+     "revenue": 103864.94
+    },
+    {
+     "end": "2026-04-26",
+     "revenue": 109068.38
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-04-28",
+     "revenue": 25080.58,
+     "netIncome": 645.8,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2024-07-21",
+     "revenue": 26057.12,
+     "netIncome": 1127.36,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2024-10-13",
+     "revenue": 24812.57,
+     "netIncome": 1010.47,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-02-02",
+     "revenue": 29800.74,
+     "netIncome": 914.38,
+     "weeks": 16,
+     "source": null
+    },
+    {
+     "end": "2025-04-27",
+     "revenue": 23195.94,
+     "netIncome": 626.41,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-07-20",
+     "revenue": 24729.88,
+     "netIncome": 1115.53,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-10-12",
+     "revenue": 25469.77,
+     "netIncome": 1055.8,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2026-02-01",
+     "revenue": 31086.63,
+     "netIncome": 1079.46,
+     "weeks": 16,
+     "source": null
+    },
+    {
+     "end": "2026-04-26",
+     "revenue": 27782.09,
+     "netIncome": 1230.86,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2026-07-19",
+     "revenue": 30942.65,
+     "netIncome": 1181.11,
+     "weeks": 12,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 18.24,
+    "opMargin": 5.88,
+    "roic": 12.48,
+    "ebitda": 9000,
+    "debt": 21650,
+    "cash": 4480,
+    "employees": 145000,
+    "invTurnover": 25.38,
+    "beta": 0.72,
+    "divYield": 1.1
+   },
+   "quote": {
+    "price": 77.87,
+    "ccy": "CAD",
+    "date": "2026-10-08",
+    "mcap": 71480,
+    "lo52": 68.3,
+    "hi52": 95.15
+   },
+   "stores": {
+    "n": 14200,
+    "label": "14,200+",
+    "basis": "Global network, all regions",
+    "date": "2026",
+    "src": "https://corpo.couche-tard.com/en/our-company/",
+    "conf": "approx"
+   },
+   "cashflow": {
+    "capex": 2718.62,
+    "ocf": 7971.96,
+    "fcf": 5253.34,
+    "dividends": 596.61,
+    "buybacks": 2306.62,
+    "end": "2026-07-19",
+    "note": ""
+   },
+   "forecast": {
+    "fy": "FY ending Apr 2027",
+    "thisRev": 124625.95,
+    "thisG": 14.27,
+    "nextRev": 123129.07,
+    "nextG": -1.2,
+    "analysts": 18,
+    "rating": "Buy",
+    "pt": 101.03,
+    "ptLo": 90.52,
+    "ptHi": 111.38,
+    "ptCcy": "CAD",
+    "updated": "2026-09-18"
+   },
+   "guidance": null,
+   "engines": {
+    "fuel": {
+     "level": "core",
+     "evidence": "Road-transportation fuel across North America and Europe; U.S. margin 52.6¢/gal in Q1 FY2027"
+    },
+    "intl": {
+     "level": "core",
+     "evidence": "Stores in North America, Europe and Asia; licensed Circle K in other markets"
+    },
+    "acq": {
+     "level": "build",
+     "evidence": "Agreed to buy a controlling stake in Żabka Group (Poland), closing expected by end of 2026"
+    },
+    "food": {
+     "level": "build",
+     "evidence": "Foodservice push: meal-deal bundles ~14M in Q1, U.S. hot food +11%"
+    },
+    "loyalty": {
+     "level": "build",
+     "evidence": "Inner Circle loyalty program"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Circle K private-label beverages and snacks"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-09-01",
+     "type": "Store network",
+     "action": "26 sites added in Q1; about 42 under construction",
+     "impact": "More than 100 openings planned for FY2027",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-01",
+     "type": "Store network",
+     "action": "Long-term plan for 750 new stores by 2030",
+     "impact": "Organic growth target",
+     "status": "Planned"
+    },
+    {
+     "date": "2026-09-01",
+     "type": "Acquisition",
+     "action": "Controlling stake in Żabka Group agreed",
+     "impact": "Leverage to rise above 2–2.5× at closing",
+     "status": "Pending"
+    },
+    {
+     "date": "2026-09-01",
+     "type": "Cost control",
+     "action": "Normalized expenses up 2.7%, below weighted inflation",
+     "impact": "Buybacks paused ahead of Żabka",
+     "status": "In progress"
+    }
+   ],
+   "actions": [
+    "Integrate Żabka quickly: it is what lifts consensus revenue 14% this year, and the year after is forecast to slip 1.2%.",
+    "Scale foodservice, the highest-margin merchandise line, to cushion any normalization in fuel margins.",
+    "Rebuild leverage toward 2× before restarting buybacks."
+   ],
+   "sources": [
+    "https://www.nasdaq.com/articles/alimentation-couche-tard-q1-earnings-call-highlights",
+    "https://www.convenience.org/Media/Daily/2026/March/18/1-Couche-Tard-Opened-37-New-Locations-Q3_Finance"
+   ]
+  },
+  {
+   "id": "EMP",
+   "name": "Empire Company (Sobeys)",
+   "short": "Empire",
+   "ticker": "TSX: EMP.A",
+   "sector": "Grocery & pharmacy",
+   "hq": "Stellarton, NS",
+   "lat": 45.56,
+   "lon": -62.66,
+   "founded": 1907,
+   "banners": "Sobeys, Safeway, IGA, FreshCo, Foodland, Farm Boy, Voilà",
+   "fyEnd": "Early May",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/EMP.A/",
+   "notes": [
+    "Trailing net income ($219M) is far below its own 5-year run-rate of about $700M a year, which inflates the P/E.",
+    "The company's own factsheet gives FY2026 sales of $31.95B; the data source's $32.03B includes other revenue."
+   ],
+   "ttm": {
+    "end": "2026-08-01",
+    "revenue": 32227,
+    "netIncome": 219,
+    "growthPct": 2.33
+   },
+   "annual": [
+    {
+     "end": "2022-05-07",
+     "revenue": 30272
+    },
+    {
+     "end": "2023-05-06",
+     "revenue": 30582
+    },
+    {
+     "end": "2024-05-04",
+     "revenue": 30800
+    },
+    {
+     "end": "2025-05-03",
+     "revenue": 31360
+    },
+    {
+     "end": "2026-05-02",
+     "revenue": 32029
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-02-03",
+     "revenue": 7494,
+     "netIncome": 134.2,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-05-04",
+     "revenue": 7412,
+     "netIncome": 149.7,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-08-03",
+     "revenue": 8137,
+     "netIncome": 208,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-11-02",
+     "revenue": 7778,
+     "netIncome": 173,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-02-01",
+     "revenue": 7725,
+     "netIncome": 146,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-05-03",
+     "revenue": 7637,
+     "netIncome": 173,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-08-02",
+     "revenue": 8258,
+     "netIncome": 212,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-11-01",
+     "revenue": 7995,
+     "netIncome": 159,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-01-31",
+     "revenue": 7890,
+     "netIncome": -385,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-05-02",
+     "revenue": 7807,
+     "netIncome": 212,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-08-01",
+     "revenue": 8475,
+     "netIncome": 233,
+     "weeks": 13,
+     "source": "https://retail-insider.com/retail-insider/2026/09/empire-company-sees-q1-net-earnings-reach-233-million-a-9-9-y-y-increase/"
+    }
+   ],
+   "stats": {
+    "grossMargin": 27.19,
+    "opMargin": 4.07,
+    "roic": 8.19,
+    "ebitda": 2400,
+    "debt": 7780,
+    "cash": 320,
+    "employees": 130000,
+    "invTurnover": 12.45,
+    "beta": 0.31,
+    "divYield": 1.97
+   },
+   "quote": {
+    "price": 49.31,
+    "ccy": "CAD",
+    "date": "2026-10-08",
+    "mcap": 11030,
+    "lo52": 43.81,
+    "hi52": 52.64
+   },
+   "stores": {
+    "n": 1600,
+    "label": "1,600+",
+    "basis": "All banners, all 10 provinces",
+    "date": "FY2026 (May 2, 2026)",
+    "src": "https://www.empireco.ca/uploads/2026/06/Q4-F2026-Empire-Company-Investor-Factsheet.pdf?id=axx12z",
+    "conf": "approx"
+   },
+   "cashflow": {
+    "capex": 734,
+    "ocf": 2099,
+    "fcf": 1365,
+    "dividends": 206,
+    "buybacks": 395,
+    "end": "2026-08-01",
+    "note": ""
+   },
+   "forecast": {
+    "fy": "FY ending Apr 2027",
+    "thisRev": 32950,
+    "thisG": 2.89,
+    "nextRev": 33960,
+    "nextG": 3.04,
+    "analysts": 7,
+    "rating": "Hold",
+    "pt": 54.29,
+    "ptLo": 48.0,
+    "ptHi": 58.0,
+    "ptCcy": "CAD",
+    "updated": "2026-07-29"
+   },
+   "guidance": null,
+   "engines": {
+    "loyalty": {
+     "level": "core",
+     "evidence": "Scene+ loyalty program"
+    },
+    "digital": {
+     "level": "build",
+     "evidence": "Voilà e-commerce under review; combined e-commerce sales +11.3% in Q1 FY2027"
+    },
+    "health": {
+     "level": "build",
+     "evidence": "Buying nine Morelli's pharmacies to convert to Longo's Pharmacy"
+    },
+    "acq": {
+     "level": "build",
+     "evidence": "Completed Mayrand Food Group acquisition in Q1 FY2027"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Compliments private label"
+    },
+    "franchise": {
+     "level": "core",
+     "evidence": "Franchise and affiliate stores across banners"
+    },
+    "fuel": {
+     "level": "core",
+     "evidence": "Fuel stations at many stores"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-08-20",
+     "type": "Store network",
+     "action": "First two FreshCo discount stores opened in Atlantic Canada",
+     "impact": "13 more planned in FY2027",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-10",
+     "type": "Renovation",
+     "action": "Renovate 20–25% of the store network between FY2027 and FY2029",
+     "impact": "FY2027 capex ~$850M, about half for renovations and new stores",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-10",
+     "type": "Cost reduction",
+     "action": "E-commerce (Voilà) review",
+     "impact": "~$95M annualized operating income",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-10",
+     "type": "Acquisition",
+     "action": "Mayrand Food Group acquisition completed",
+     "impact": "Expands foodservice and wholesale",
+     "status": "Done"
+    }
+   ],
+   "actions": [
+    "Land the $95M Voilà fix first; it is worth more than a third of trailing net income.",
+    "Pace FreshCo openings in the East, where discount demand is outgrowing conventional banners.",
+    "Use the 20–25% renovation program to raise sales per store; at 0.34× sales the market is pricing in no improvement."
+   ],
+   "sources": [
+    "https://retail-insider.com/retail-insider/2026/09/empire-company-sees-q1-net-earnings-reach-233-million-a-9-9-y-y-increase/"
+   ]
+  },
+  {
+   "id": "MRU",
+   "name": "Metro Inc.",
+   "short": "Metro",
+   "ticker": "TSX: MRU",
+   "sector": "Grocery & pharmacy",
+   "hq": "Montréal, QC",
+   "lat": 45.53,
+   "lon": -73.62,
+   "founded": 1947,
+   "banners": "Metro, Super C, Food Basics, Adonis, Jean Coutu, Brunet",
+   "fyEnd": "Late September",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/MRU/",
+   "notes": [
+    "Employee figure counts people employed directly or indirectly, including franchised and affiliated stores."
+   ],
+   "ttm": {
+    "end": "2026-07-04",
+    "revenue": 22478,
+    "netIncome": 899.1,
+    "growthPct": 2.94
+   },
+   "annual": [
+    {
+     "end": "2021-09-25",
+     "revenue": 18283
+    },
+    {
+     "end": "2022-09-24",
+     "revenue": 18889
+    },
+    {
+     "end": "2023-09-30",
+     "revenue": 20725
+    },
+    {
+     "end": "2024-09-28",
+     "revenue": 21220
+    },
+    {
+     "end": "2025-09-27",
+     "revenue": 22007
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2023-12-23",
+     "revenue": 4974,
+     "netIncome": 227,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2024-03-16",
+     "revenue": 4656,
+     "netIncome": 187,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2024-07-06",
+     "revenue": 6652,
+     "netIncome": 295.4,
+     "weeks": 16,
+     "source": null
+    },
+    {
+     "end": "2024-09-28",
+     "revenue": 4938,
+     "netIncome": 219.4,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2024-12-21",
+     "revenue": 5117,
+     "netIncome": 258.8,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-03-15",
+     "revenue": 4910,
+     "netIncome": 219.4,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-07-05",
+     "revenue": 6871,
+     "netIncome": 322.8,
+     "weeks": 16,
+     "source": null
+    },
+    {
+     "end": "2025-09-27",
+     "revenue": 5109,
+     "netIncome": 216,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2025-12-20",
+     "revenue": 5286,
+     "netIncome": 225.5,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2026-03-14",
+     "revenue": 5113,
+     "netIncome": 246.5,
+     "weeks": 12,
+     "source": null
+    },
+    {
+     "end": "2026-07-04",
+     "revenue": 6970.4,
+     "netIncome": 211.3,
+     "weeks": 16,
+     "source": "https://www.newswire.ca/news-releases/metro-reports-2026-third-quarter-results-810608060.html"
+    }
+   ],
+   "stats": {
+    "grossMargin": 19.46,
+    "opMargin": 6.24,
+    "roic": 9.01,
+    "ebitda": 1820,
+    "debt": 4950,
+    "cash": 49.9,
+    "employees": 99000,
+    "invTurnover": 11.42,
+    "beta": 0.32,
+    "divYield": 1.8
+   },
+   "quote": {
+    "price": 90.72,
+    "ccy": "CAD",
+    "date": "2026-10-08",
+    "mcap": 19020,
+    "lo52": 86.63,
+    "hi52": 101.3
+   },
+   "stores": {
+    "n": 1644,
+    "label": "1,644",
+    "basis": "1,006 food stores + 638 pharmacies",
+    "date": "FY2025 (Sep 27, 2025)",
+    "src": "https://corpo.metro.ca/userfiles/file/PDF/Rapport-Annuel/2025/en/annual_report_2025_EN.pdf",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 425.4,
+    "ocf": 1624,
+    "fcf": 1199,
+    "dividends": 330.8,
+    "buybacks": 815.5,
+    "end": "2026-07-04",
+    "note": ""
+   },
+   "forecast": {
+    "fy": "FY ending Sep 2026",
+    "thisRev": 22540,
+    "thisG": 2.43,
+    "nextRev": 23430,
+    "nextG": 3.95,
+    "analysts": 10,
+    "rating": "Hold",
+    "pt": 98.9,
+    "ptLo": 86.0,
+    "ptHi": 110.0,
+    "ptCcy": "CAD",
+    "updated": "2026-08-13"
+   },
+   "guidance": null,
+   "engines": {
+    "loyalty": {
+     "level": "core",
+     "evidence": "Moi rewards program"
+    },
+    "health": {
+     "level": "core",
+     "evidence": "Jean Coutu and Brunet pharmacies; pharmacy same-store sales +4.8% in Q3 2026"
+    },
+    "digital": {
+     "level": "build",
+     "evidence": "Online food sales +16.3% in Q3 2026; delivery moving to the store network"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Selection and Irresistibles private labels"
+    },
+    "franchise": {
+     "level": "core",
+     "evidence": "Franchised Jean Coutu pharmacies and affiliated grocers"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-08-12",
+     "type": "Restructuring",
+     "action": "Converting 10 Ontario Metro stores to Food Basics; closing 1 store, a satellite warehouse and the Montréal e-commerce fulfilment centre",
+     "impact": "~$15M recurring annual net earnings by FY2028; $42.6M after-tax charges",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-08-12",
+     "type": "Store network",
+     "action": "Discount acceleration plan: about a dozen new or converted stores this year",
+     "impact": "On track",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-08-12",
+     "type": "Labour",
+     "action": "Laval distribution-centre labour conflict",
+     "impact": "$66M after-tax hit in Q3; Q4 also affected",
+     "status": "Ongoing"
+    }
+   ],
+   "actions": [
+    "Resolve the Laval labour conflict: its $66M after-tax cost in one quarter outweighs four years of the restructuring savings.",
+    "Keep converting weak conventional stores to Food Basics; food same-store sales fell 1.5% while pharmacy grew 4.8%.",
+    "Lean on Jean Coutu health services, the steadiest growth line."
+   ],
+   "sources": [
+    "https://www.newswire.ca/news-releases/metro-reports-2026-third-quarter-results-810608060.html"
+   ]
+  },
+  {
+   "id": "CTC",
+   "name": "Canadian Tire Corporation",
+   "short": "Canadian Tire",
+   "ticker": "TSX: CTC.A",
+   "sector": "General merchandise",
+   "hq": "Toronto, ON",
+   "lat": 43.7,
+   "lon": -79.4,
+   "founded": 1922,
+   "banners": "Canadian Tire, SportChek, Mark's, Party City, Gas+, Canadian Tire Bank",
+   "fyEnd": "Around January 1",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/CTC.A/",
+   "notes": [
+    "Debt includes funding for Canadian Tire Bank's credit-card receivables, so leverage ratios overstate retail-only debt.",
+    "Headcount excludes staff employed by independent Canadian Tire dealers."
+   ],
+   "ttm": {
+    "end": "2026-07-04",
+    "revenue": 16531,
+    "netIncome": 676.1,
+    "growthPct": 4.32
+   },
+   "annual": [
+    {
+     "end": "2022-01-01",
+     "revenue": 16292
+    },
+    {
+     "end": "2022-12-31",
+     "revenue": 17811
+    },
+    {
+     "end": "2023-12-30",
+     "revenue": 16657
+    },
+    {
+     "end": "2024-12-28",
+     "revenue": 15516
+    },
+    {
+     "end": "2026-01-03",
+     "revenue": 16316
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2023-12-30",
+     "revenue": 4443,
+     "netIncome": 172.5,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-03-30",
+     "revenue": 3333,
+     "netIncome": 76.8,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-06-29",
+     "revenue": 3995,
+     "netIncome": 198.8,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-09-28",
+     "revenue": 3987,
+     "netIncome": 200.6,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-12-28",
+     "revenue": 4201,
+     "netIncome": 411.5,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-03-29",
+     "revenue": 3457,
+     "netIncome": 37.2,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-06-28",
+     "revenue": 4202,
+     "netIncome": 112.1,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-09-27",
+     "revenue": 4106,
+     "netIncome": 169.1,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-01-03",
+     "revenue": 4551,
+     "netIncome": 207.9,
+     "weeks": 14,
+     "source": null
+    },
+    {
+     "end": "2026-04-04",
+     "revenue": 3571,
+     "netIncome": 107,
+     "weeks": 13,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 31.82,
+    "opMargin": 8.74,
+    "roic": 6.16,
+    "ebitda": 1780,
+    "debt": 11500,
+    "cash": 674.8,
+    "employees": 28927,
+    "invTurnover": 3.76,
+    "beta": 0.9,
+    "divYield": 3.77
+   },
+   "quote": {
+    "price": 190.82,
+    "ccy": "CAD",
+    "date": "2026-10-08",
+    "mcap": 9990,
+    "lo52": 159.2,
+    "hi52": 208.08
+   },
+   "stores": {
+    "n": 1600,
+    "label": "1,600+",
+    "basis": "All retail banners incl. Gas+, dealer-operated",
+    "date": "2026",
+    "src": "https://corp.canadiantire.ca/English/about-us/default.aspx",
+    "conf": "approx"
+   },
+   "cashflow": {
+    "capex": 597.6,
+    "ocf": 1200,
+    "fcf": 602.7,
+    "dividends": 361.5,
+    "buybacks": 361.4,
+    "end": "2026-07-04",
+    "note": ""
+   },
+   "forecast": {
+    "fy": "FY ending Jan 2027",
+    "thisRev": 16600,
+    "thisG": 1.74,
+    "nextRev": 17030,
+    "nextG": 2.57,
+    "analysts": 10,
+    "rating": "Hold",
+    "pt": 206.6,
+    "ptLo": 185.0,
+    "ptHi": 230.0,
+    "ptCcy": "CAD",
+    "updated": "2026-08-14"
+   },
+   "guidance": null,
+   "engines": {
+    "loyalty": {
+     "level": "core",
+     "evidence": "Triangle Rewards: 2M+ members active with partners incl. Petro-Canada, RBC, WestJet; Tims Rewards link coming"
+    },
+    "fin": {
+     "level": "core",
+     "evidence": "Canadian Tire Bank credit cards; receivables +4.2%"
+    },
+    "digital": {
+     "level": "build",
+     "evidence": "Comparable e-commerce sales +12% in Q2 2026"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Owned Brands such as Mastercraft, NOMA and Woods"
+    },
+    "franchise": {
+     "level": "core",
+     "evidence": "Independent Canadian Tire dealers run the stores"
+    },
+    "fuel": {
+     "level": "core",
+     "evidence": "Gas+ fuel network"
+    },
+    "data": {
+     "level": "build",
+     "evidence": "DaiVID AI pricing tool cut regular prices on 5,000+ items"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-08-13",
+     "type": "Renovation",
+     "action": "30 store refreshes done in H1; more than double by year-end",
+     "impact": "Original plan was 70",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-08-13",
+     "type": "Capex",
+     "action": "2026 capital spending narrowed to C$450–500M",
+     "impact": "Down from earlier plans",
+     "status": "Revised"
+    },
+    {
+     "date": "2026-08-13",
+     "type": "Cost reduction",
+     "action": "Retail SG&A down C$10M year over year",
+     "impact": "Restructuring savings",
+     "status": "Done"
+    },
+    {
+     "date": "2026-08-13",
+     "type": "Pricing",
+     "action": "Regular prices cut on 5,000+ products using AI pricing",
+     "impact": "Traffic investment",
+     "status": "Done"
+    }
+   ],
+   "actions": [
+    "Grow Triangle partnerships into a paid data and media business; the loyalty base is a bigger asset than the store count.",
+    "Watch the bank: net write-offs near 7.2% mean credit losses can erase retail gains in a downturn.",
+    "Finish the store-refresh program before adding capex; revenue barely moved over four years (0.04% CAGR)."
+   ],
+   "sources": [
+    "https://www.marketbeat.com/instant-alerts/canadian-tire-q2-earnings-call-highlights-2026-08-14/"
+   ]
+  },
+  {
+   "id": "DOL",
+   "name": "Dollarama",
+   "short": "Dollarama",
+   "ticker": "TSX: DOL",
+   "sector": "General merchandise",
+   "hq": "Mount Royal, QC",
+   "lat": 45.51,
+   "lon": -73.65,
+   "founded": 1992,
+   "banners": "Dollarama, The Reject Shop (Australia), 60% of Dollarcity (Latin America)",
+   "fyEnd": "Around February 1",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/DOL/",
+   "notes": [
+    "Part of the recent growth comes from adding The Reject Shop's Australian stores; Canadian comparable sales grew 5.4% in Q2.",
+    "ROE above 90% reflects heavy share buybacks shrinking equity, so this dashboard ranks returns on ROIC instead."
+   ],
+   "ttm": {
+    "end": "2026-08-02",
+    "revenue": 7883,
+    "netIncome": 1366,
+    "growthPct": 17.86
+   },
+   "annual": [
+    {
+     "end": "2022-01-30",
+     "revenue": 4331
+    },
+    {
+     "end": "2023-01-29",
+     "revenue": 5053
+    },
+    {
+     "end": "2024-01-28",
+     "revenue": 5867
+    },
+    {
+     "end": "2025-02-02",
+     "revenue": 6413
+    },
+    {
+     "end": "2026-02-01",
+     "revenue": 7256
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-01-28",
+     "revenue": 1639,
+     "netIncome": 323.77,
+     "weeks": 14,
+     "source": null
+    },
+    {
+     "end": "2024-04-28",
+     "revenue": 1406,
+     "netIncome": 215.84,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-07-28",
+     "revenue": 1563,
+     "netIncome": 285.94,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-10-27",
+     "revenue": 1563,
+     "netIncome": 275.81,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-02-02",
+     "revenue": 1881,
+     "netIncome": 390.95,
+     "weeks": 14,
+     "source": null
+    },
+    {
+     "end": "2025-05-04",
+     "revenue": 1521,
+     "netIncome": 273.76,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-08-03",
+     "revenue": 1724,
+     "netIncome": 321.5,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-11-02",
+     "revenue": 1909,
+     "netIncome": 321.72,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-02-01",
+     "revenue": 2101,
+     "netIncome": 392.46,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-05-03",
+     "revenue": 1846,
+     "netIncome": 302.27,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-08-02",
+     "revenue": 2026.6,
+     "netIncome": null,
+     "weeks": 13,
+     "source": "https://www.newswire.ca/news-releases/dollarama-reports-fiscal-2027-second-quarter-results-863412551.html"
+    }
+   ],
+   "stats": {
+    "grossMargin": 44.69,
+    "opMargin": 22.85,
+    "roic": 19.68,
+    "ebitda": 1920,
+    "debt": 5910,
+    "cash": 485.03,
+    "employees": 20020,
+    "invTurnover": 3.98,
+    "beta": 0.31,
+    "divYield": 0.25
+   },
+   "quote": {
+    "price": 191.93,
+    "ccy": "CAD",
+    "date": "2026-10-09",
+    "mcap": 51510,
+    "lo52": 163.25,
+    "hi52": 209.96
+   },
+   "stores": {
+    "n": 2148,
+    "label": "2,148",
+    "basis": "1,734 in Canada + 414 Reject Shop (Australia); excludes 781 Dollarcity",
+    "date": "Aug 2, 2026",
+    "src": "https://www.newswire.ca/news-releases/dollarama-reports-fiscal-2027-second-quarter-results-863412551.html",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 317.85,
+    "ocf": 1828,
+    "fcf": 1511,
+    "dividends": 116.58,
+    "buybacks": 1212,
+    "end": "2026-05-03",
+    "note": ""
+   },
+   "forecast": {
+    "fy": "FY ending Jan 2027",
+    "thisRev": 8130,
+    "thisG": 11.99,
+    "nextRev": 8660,
+    "nextG": 6.6,
+    "analysts": 17,
+    "rating": "Buy",
+    "pt": 208.65,
+    "ptLo": 138.0,
+    "ptHi": 231.0,
+    "ptCcy": "CAD",
+    "updated": "2026-08-25"
+   },
+   "guidance": null,
+   "engines": {
+    "intl": {
+     "level": "build",
+     "evidence": "The Reject Shop (Australia, 414 stores) and Dollarcity (Latin America, now in Mexico)"
+    },
+    "acq": {
+     "level": "core",
+     "evidence": "Acquired The Reject Shop; 60.1% of Dollarcity"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Mostly direct-sourced, own-label goods at fixed price points"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-09-16",
+     "type": "Store network",
+     "action": "FY2027 target raised to 65–75 net new Canadian stores",
+     "impact": "1,734 stores at Aug 2, 2026",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-16",
+     "type": "Facility",
+     "action": "Western Canada logistics hub under construction",
+     "impact": "Fully operational by end of 2027",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-16",
+     "type": "Renovation",
+     "action": "Australia: 38 stores renovated so far this year; 60 of 414 on Dollarama layouts",
+     "impact": "FY2027 target 60–80 renovations, 15–25 new stores",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-16",
+     "type": "Store network",
+     "action": "Dollarcity Mexico rollout accelerated after Guadalajara launch",
+     "impact": "21 Mexican stores",
+     "status": "In progress"
+    }
+   ],
+   "actions": [
+    "Prove the Australian model before speeding up: Reject Shop conversions will weigh on H2 sales.",
+    "Hold the $5 price ceiling as long as possible; it's the core of the traffic story.",
+    "Growth is forecast to halve to 6.6% next year, so Mexico and Australia need to carry more of it."
+   ],
+   "sources": [
+    "https://www.marketbeat.com/instant-alerts/transcript-dollarama-q2-earnings-call-highlights-2026-09-16/"
+   ]
+  },
+  {
+   "id": "LULU",
+   "name": "lululemon athletica",
+   "short": "lululemon",
+   "ticker": "NASDAQ: LULU",
+   "sector": "Apparel",
+   "hq": "Vancouver, BC",
+   "lat": 49.27,
+   "lon": -123.1,
+   "founded": 1998,
+   "banners": "lululemon",
+   "fyEnd": "Around February 1",
+   "reportsIn": "USD",
+   "sourceUrl": "https://stockanalysis.com/stocks/lulu/",
+   "notes": [
+    "Listed in New York and reports in US dollars; converted to CAD at the Oct 9, 2026 close.",
+    "Q2 comparable sales fell 9% and Canada revenue fell 11%; the share price sits near its 52-week low.",
+    "Lululemon calls the year ended Feb 1, 2026 'fiscal 2025'. This dashboard labels years by their end date to avoid that trap."
+   ],
+   "ttm": {
+    "end": "2026-08-02",
+    "revenue": 15815.61,
+    "netIncome": 2021.5,
+    "growthPct": 1.74
+   },
+   "annual": [
+    {
+     "end": "2022-01-30",
+     "revenue": 8919.98
+    },
+    {
+     "end": "2023-01-29",
+     "revenue": 11563.04
+    },
+    {
+     "end": "2024-01-28",
+     "revenue": 13712.85
+    },
+    {
+     "end": "2025-02-02",
+     "revenue": 15094.25
+    },
+    {
+     "end": "2026-02-01",
+     "revenue": 15828.44
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-04-28",
+     "revenue": 3149.15,
+     "netIncome": 458.22,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-07-28",
+     "revenue": 3380.1,
+     "netIncome": 560.15,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-10-27",
+     "revenue": 3417.16,
+     "netIncome": 501.63,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-02-02",
+     "revenue": 5147.84,
+     "netIncome": 1066.92,
+     "weeks": 14,
+     "source": null
+    },
+    {
+     "end": "2025-05-04",
+     "revenue": 3380.1,
+     "netIncome": 448.45,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-08-03",
+     "revenue": 3599.64,
+     "netIncome": 528.77,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-11-02",
+     "revenue": 3658.09,
+     "netIncome": 437.43,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-02-01",
+     "revenue": 5190.61,
+     "netIncome": 836.64,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-05-03",
+     "revenue": 3524.08,
+     "netIncome": 278.06,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-08-02",
+     "revenue": 3444.25,
+     "netIncome": 469.34,
+     "weeks": 13,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 54.89,
+    "opMargin": 16.62,
+    "roic": 23.7,
+    "ebitda": 3392.93,
+    "debt": 3050.78,
+    "cash": 1981.58,
+    "employees": 39000,
+    "invTurnover": 2.91,
+    "beta": 0.92,
+    "divYield": 0.0
+   },
+   "quote": {
+    "price": 94.5,
+    "ccy": "USD",
+    "date": "2026-10-09",
+    "mcap": 14911.78,
+    "lo52": 90.38,
+    "hi52": 225.98
+   },
+   "stores": {
+    "n": 825,
+    "label": "825",
+    "basis": "Company-operated stores worldwide",
+    "date": "Aug 2, 2026",
+    "src": "https://www.sec.gov/Archives/edgar/data/0001397187/000139718726000126/lulu-20260802xex991.htm",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 894.85,
+    "ocf": 2825.54,
+    "fcf": 1930.26,
+    "dividends": 0.0,
+    "buybacks": 1669.38,
+    "end": "2026-08-02",
+    "note": "No dividend"
+   },
+   "forecast": {
+    "fy": "FY ending Jan 2027",
+    "thisRev": 14897.52,
+    "thisG": -5.84,
+    "nextRev": 14754.96,
+    "nextG": -0.96,
+    "analysts": 35,
+    "rating": "Hold",
+    "pt": 104.91,
+    "ptLo": 44.0,
+    "ptHi": 255.0,
+    "ptCcy": "USD",
+    "updated": "2026-10-08"
+   },
+   "guidance": "Company outlook: FY revenue US$10.35–10.50B, a 5–7% decline",
+   "engines": {
+    "intl": {
+     "level": "build",
+     "evidence": "International revenue +4% in Q2; China Mainland −2% in constant dollars"
+    },
+    "digital": {
+     "level": "core",
+     "evidence": "Large e-commerce business alongside 825 stores"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Vertically integrated own brand"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-09-04",
+     "type": "Store network",
+     "action": "35 net new stores planned for 2026, cut from ~40; ~25 international",
+     "impact": "Pop-ups cut from 65 to ~40",
+     "status": "Revised"
+    },
+    {
+     "date": "2026-09-04",
+     "type": "Leadership",
+     "action": "New CEO Heidi O'Neill joining",
+     "impact": "Interim co-CEO period ending",
+     "status": "Done"
+    },
+    {
+     "date": "2026-09-04",
+     "type": "Capital return",
+     "action": "2.7M shares repurchased in Q2",
+     "impact": "US$330M",
+     "status": "Done"
+    }
+   ],
+   "actions": [
+    "Fix the Americas first: comps fell 12% there, and both forecast years show shrinking revenue.",
+    "Slow store openings further until traffic and conversion recover; protect the 23.7% ROIC.",
+    "Rebuild product newness and marketing, the levers management itself named."
+   ],
+   "sources": [
+    "https://www.sec.gov/Archives/edgar/data/0001397187/000139718726000126/lulu-20260802xex991.htm",
+    "https://www.mytotalretail.com/article/lululemon-pulls-back-on-store-openings-following-disappointing-q2/"
+   ]
+  },
+  {
+   "id": "ATZ",
+   "name": "Aritzia",
+   "short": "Aritzia",
+   "ticker": "TSX: ATZ",
+   "sector": "Apparel",
+   "hq": "Vancouver, BC",
+   "lat": 49.26,
+   "lon": -123.12,
+   "founded": 1984,
+   "banners": "Aritzia, Babaton, Wilfred, TNA, Super Puff",
+   "fyEnd": "Around March 1",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/ATZ/",
+   "notes": [
+    "Digital sales were 29.9% of Q1 revenue, which lifts revenue per boutique.",
+    "Q1 comparable sales grew 35.1%, the fastest of any company here."
+   ],
+   "ttm": {
+    "end": "2026-05-31",
+    "revenue": 3990,
+    "netIncome": 456.72,
+    "growthPct": 37.45
+   },
+   "annual": [
+    {
+     "end": "2022-02-27",
+     "revenue": 1495
+    },
+    {
+     "end": "2023-02-26",
+     "revenue": 2196
+    },
+    {
+     "end": "2024-03-03",
+     "revenue": 2332
+    },
+    {
+     "end": "2025-03-02",
+     "revenue": 2738
+    },
+    {
+     "end": "2026-03-01",
+     "revenue": 3702
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-03-03",
+     "revenue": 681.97,
+     "netIncome": 24.21,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-06-02",
+     "revenue": 498.63,
+     "netIncome": 15.83,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-09-01",
+     "revenue": 615.66,
+     "netIncome": 18.25,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-12-01",
+     "revenue": 728.7,
+     "netIncome": 74.07,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-03-02",
+     "revenue": 895.12,
+     "netIncome": 99.64,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-06-01",
+     "revenue": 663.32,
+     "netIncome": 42.39,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-08-31",
+     "revenue": 812.05,
+     "netIncome": 66.3,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-11-30",
+     "revenue": 1040,
+     "netIncome": 138.89,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-03-01",
+     "revenue": 1187,
+     "netIncome": 134.27,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-05-31",
+     "revenue": 951.01,
+     "netIncome": 117.26,
+     "weeks": 13,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 45.78,
+    "opMargin": 14.92,
+    "roic": 23.02,
+    "ebitda": 820.74,
+    "debt": 1080,
+    "cash": 471.93,
+    "employees": 8800,
+    "invTurnover": 4.52,
+    "beta": 1.73,
+    "divYield": 0.0
+   },
+   "quote": {
+    "price": 122.66,
+    "ccy": "CAD",
+    "date": "2026-10-02",
+    "mcap": 14050,
+    "lo52": 79.4,
+    "hi52": 174.52
+   },
+   "stores": {
+    "n": 143,
+    "label": "143",
+    "basis": "Boutiques, Canada + US",
+    "date": "May 31, 2026",
+    "src": "https://www.newswire.ca/news-releases/aritzia-reports-first-quarter-fiscal-2027-financial-results-841674959.html",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 292.22,
+    "ocf": 803.73,
+    "fcf": 511.51,
+    "dividends": 0,
+    "buybacks": 268.1,
+    "end": "2026-05-31",
+    "note": "No dividend"
+   },
+   "forecast": {
+    "fy": "FY ending Feb 2027",
+    "thisRev": 4710,
+    "thisG": 27.23,
+    "nextRev": 5420,
+    "nextG": 15.15,
+    "analysts": 15,
+    "rating": "Buy",
+    "pt": 189.14,
+    "ptLo": 145.0,
+    "ptHi": 216.0,
+    "ptCcy": "CAD",
+    "updated": "2026-08-12"
+   },
+   "guidance": null,
+   "engines": {
+    "intl": {
+     "level": "core",
+     "evidence": "U.S. now 67.1% of revenue; 76 U.S. vs 67 Canadian boutiques"
+    },
+    "digital": {
+     "level": "core",
+     "evidence": "Digital 29.9% of Q1 FY2027 revenue"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Own exclusive brands: Babaton, Wilfred, TNA, Super Puff"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-05-15",
+     "type": "Facility",
+     "action": "380,000 sq ft British Columbia distribution centre went live",
+     "impact": "Next major DC planned for the U.S.",
+     "status": "Done"
+    },
+    {
+     "date": "2026-09-19",
+     "type": "Store network",
+     "action": "12–13 new boutiques in FY2027, 11–12 in the U.S.",
+     "impact": "180–200 qualifying U.S. sites identified",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-19",
+     "type": "Capex",
+     "action": "About $250M capital spending in FY2027",
+     "impact": "New boutiques pay back in under a year on average",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-19",
+     "type": "Store network",
+     "action": "Four-level ~42,000 sq ft flagship at CF Pacific Centre",
+     "impact": "Flagship",
+     "status": "Planned"
+    }
+   ],
+   "actions": [
+    "Keep opening U.S. boutiques at the current pace; payback under a year is the best capital return in this group.",
+    "Build the U.S. distribution centre before the store pipeline outruns logistics.",
+    "Plan for growth to slow from 27% to 15% next year as the comparison base gets harder."
+   ],
+   "sources": [
+    "https://retail-insider.com/?p=207810",
+    "https://www.newswire.ca/news-releases/aritzia-reports-first-quarter-fiscal-2027-financial-results-841674959.html"
+   ]
+  },
+  {
+   "id": "GOOS",
+   "name": "Canada Goose",
+   "short": "Canada Goose",
+   "ticker": "TSX: GOOS",
+   "sector": "Apparel",
+   "hq": "Toronto, ON",
+   "lat": 43.72,
+   "lon": -79.47,
+   "founded": 1957,
+   "banners": "Canada Goose",
+   "fyEnd": "Around March 31",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/GOOS/",
+   "notes": [
+    "Highly seasonal: most revenue and nearly all profit land in the October–December quarter.",
+    "Revenue per store is inflated because a large share of sales is wholesale and e-commerce, not stores."
+   ],
+   "ttm": {
+    "end": "2026-06-28",
+    "revenue": 1539,
+    "netIncome": 56.9,
+    "growthPct": 12.51
+   },
+   "annual": [
+    {
+     "end": "2022-04-03",
+     "revenue": 1098
+    },
+    {
+     "end": "2023-04-02",
+     "revenue": 1217
+    },
+    {
+     "end": "2024-03-31",
+     "revenue": 1334
+    },
+    {
+     "end": "2025-03-30",
+     "revenue": 1348
+    },
+    {
+     "end": "2026-03-29",
+     "revenue": 1528
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-03-31",
+     "revenue": 358.0,
+     "netIncome": 5.0,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-06-30",
+     "revenue": 88.1,
+     "netIncome": -77.4,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-09-29",
+     "revenue": 267.8,
+     "netIncome": 5.4,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-12-29",
+     "revenue": 607.9,
+     "netIncome": 139.7,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-03-30",
+     "revenue": 384.6,
+     "netIncome": 27.1,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-06-29",
+     "revenue": 107.8,
+     "netIncome": -125.2,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-09-28",
+     "revenue": 272.6,
+     "netIncome": -15.2,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-12-28",
+     "revenue": 694.5,
+     "netIncome": 134.8,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-03-29",
+     "revenue": 453.3,
+     "netIncome": 28.1,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-06-28",
+     "revenue": 118.9,
+     "netIncome": -90.8,
+     "weeks": 13,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 69.74,
+    "opMargin": 13.23,
+    "roic": 12.15,
+    "ebitda": 247.4,
+    "debt": 833.4,
+    "cash": 206.9,
+    "employees": 3942,
+    "invTurnover": 1.0,
+    "beta": 1.77,
+    "divYield": 0.0
+   },
+   "quote": {
+    "price": 11.25,
+    "ccy": "CAD",
+    "date": "2026-09-03",
+    "mcap": 1100,
+    "lo52": 11.15,
+    "hi52": 21.28
+   },
+   "stores": {
+    "n": 92,
+    "label": "92",
+    "basis": "Directly operated stores worldwide",
+    "date": "Jun 28, 2026",
+    "src": "https://www.sec.gov/Archives/edgar/data/0001690511/000169051126000017/pressreleaseq12027.htm",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 46.8,
+    "ocf": 144.8,
+    "fcf": 98.0,
+    "dividends": 0,
+    "buybacks": 0,
+    "end": "2026-06-28",
+    "note": "No dividend"
+   },
+   "forecast": {
+    "fy": "FY ending Mar 2027",
+    "thisRev": 1580,
+    "thisG": 3.26,
+    "nextRev": 1640,
+    "nextG": 4.14,
+    "analysts": 12,
+    "rating": "Hold",
+    "pt": 15.03,
+    "ptLo": 10.0,
+    "ptHi": 20.0,
+    "ptCcy": "CAD",
+    "updated": "2026-08-06"
+   },
+   "guidance": null,
+   "engines": {
+    "intl": {
+     "level": "core",
+     "evidence": "Asia Pacific is a main source of DTC growth"
+    },
+    "digital": {
+     "level": "build",
+     "evidence": "E-commerce up double digits in Q1 FY2027"
+    },
+    "franchise": {
+     "level": "core",
+     "evidence": "Wholesale revenue +66.5% in Q1 FY2027"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Single own brand; expanding into rainwear, windwear and apparel"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-07-30",
+     "type": "Store network",
+     "action": "Four net new stores in Q1; 92 directly operated",
+     "impact": "DTC comparable sales −3.2%",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-07-30",
+     "type": "Cost reduction",
+     "action": "SG&A down to $178.0M from $224.9M",
+     "impact": "Mostly non-recurring prior-year items",
+     "status": "Done"
+    },
+    {
+     "date": "2026-07-30",
+     "type": "Sustainability",
+     "action": "Scope 1 and 2 emissions down 50% vs fiscal 2019",
+     "impact": "Impact report",
+     "status": "Done"
+    }
+   ],
+   "actions": [
+    "Push year-round categories harder; one quarter still earns nearly all the profit.",
+    "Grow wholesale selectively to fill off-season capacity rather than opening more stores while DTC comps are negative.",
+    "Inventory turns only once a year; cut SKUs before adding categories."
+   ],
+   "sources": [
+    "https://retail-insider.com/retail-insider/2026/07/canada-goose-reports-q1-fiscal-2027-results-while-company-expands-year-round-relevance/"
+   ]
+  },
+  {
+   "id": "PET",
+   "name": "Pet Valu",
+   "short": "Pet Valu",
+   "ticker": "TSX: PET",
+   "sector": "Specialty",
+   "hq": "Markham, ON",
+   "lat": 43.86,
+   "lon": -79.34,
+   "founded": 1976,
+   "banners": "Pet Valu, Bosley's, Tisol, Total Pet, Chico",
+   "fyEnd": "Around January 1",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/PET/",
+   "notes": [
+    "Most stores are franchised, which is why 877 stores run on about 2,200 employees and revenue per employee looks high.",
+    "Same-store sales slipped 0.2% in Q2 2026; the stock is down about half from its 52-week high."
+   ],
+   "ttm": {
+    "end": "2026-07-04",
+    "revenue": 1194,
+    "netIncome": 99.21,
+    "growthPct": 5.62
+   },
+   "annual": [
+    {
+     "end": "2022-01-01",
+     "revenue": 776.01
+    },
+    {
+     "end": "2022-12-31",
+     "revenue": 951.7
+    },
+    {
+     "end": "2023-12-30",
+     "revenue": 1056
+    },
+    {
+     "end": "2024-12-28",
+     "revenue": 1097
+    },
+    {
+     "end": "2026-01-03",
+     "revenue": 1176
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-03-30",
+     "revenue": 260.79,
+     "netIncome": 17.52,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-06-29",
+     "revenue": 265.23,
+     "netIncome": 17.84,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-09-28",
+     "revenue": 276.03,
+     "netIncome": 23.16,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-12-28",
+     "revenue": 295.15,
+     "netIncome": 28.91,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-03-29",
+     "revenue": 279.09,
+     "netIncome": 21.76,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-06-28",
+     "revenue": 280.65,
+     "netIncome": 21.81,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-09-27",
+     "revenue": 289.46,
+     "netIncome": 24.86,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-01-03",
+     "revenue": 326.36,
+     "netIncome": 29.37,
+     "weeks": 14,
+     "source": null
+    },
+    {
+     "end": "2026-04-04",
+     "revenue": 287.94,
+     "netIncome": 20.05,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-07-04",
+     "revenue": 290.68,
+     "netIncome": 24.93,
+     "weeks": 13,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 38.11,
+    "opMargin": 14.3,
+    "roic": 14.29,
+    "ebitda": 202.71,
+    "debt": 815.85,
+    "cash": 24.28,
+    "employees": 2177,
+    "invTurnover": 5.38,
+    "beta": 0.77,
+    "divYield": 2.97
+   },
+   "quote": {
+    "price": 17.5,
+    "ccy": "CAD",
+    "date": "2026-10-02",
+    "mcap": 1180,
+    "lo52": 16.58,
+    "hi52": 36.52
+   },
+   "stores": {
+    "n": 877,
+    "label": "877",
+    "basis": "Network incl. franchised stores",
+    "date": "Jul 4, 2026",
+    "src": "https://investors.petvalu.ca/news-releases/news-release-details/pet-valu-reports-second-quarter-2026-results",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 43.17,
+    "ocf": 194.29,
+    "fcf": 151.12,
+    "dividends": 34.23,
+    "buybacks": 44.92,
+    "end": "2026-07-04",
+    "note": ""
+   },
+   "forecast": {
+    "fy": "FY ending Jan 2027",
+    "thisRev": 1190,
+    "thisG": 1.28,
+    "nextRev": 1250,
+    "nextG": 4.86,
+    "analysts": 9,
+    "rating": "Buy",
+    "pt": 25.22,
+    "ptLo": 19.0,
+    "ptHi": 35.0,
+    "ptCcy": "CAD",
+    "updated": "2026-09-15"
+   },
+   "guidance": "Company outlook: revenue +2% to +4% on a comparable-week basis; adjusted EBITDA margin about 21%",
+   "engines": {
+    "loyalty": {
+     "level": "core",
+     "evidence": "Loyalty members drive 90% of sales"
+    },
+    "franchise": {
+     "level": "core",
+     "evidence": "About 71% of 877 stores franchised; sold 11 corporate stores to franchisees in Q2"
+    },
+    "digital": {
+     "level": "build",
+     "evidence": "Record digital growth from Click & Collect, delivery and AutoShip"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Own brands across food and supplies"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-08-11",
+     "type": "Store network",
+     "action": "7 stores opened in Q2, 15 in H1; 877 total",
+     "impact": "Room for 1,200+ stores in Canada",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-08-11",
+     "type": "Franchise",
+     "action": "11 corporate stores sold to franchisees",
+     "impact": "~C$4.5M gains",
+     "status": "Done"
+    },
+    {
+     "date": "2026-08-11",
+     "type": "Facility",
+     "action": "DC labour-management systems and training",
+     "impact": "Gross margin 32.5%, +110 bps sequentially",
+     "status": "In progress"
+    }
+   ],
+   "actions": [
+    "Use the 90%-of-sales loyalty base to sell subscriptions (AutoShip) and services, not just product.",
+    "Prioritize the rural and Quebec white space behind the 1,200-store target.",
+    "At 3.9× net debt to EBITDA, keep franchise-resale gains going to debt rather than buybacks."
+   ],
+   "sources": [
+    "https://investors.petvalu.ca/news-releases/news-release-details/pet-valu-reports-second-quarter-2026-results",
+    "https://www.nasdaq.com/articles/pet-valu-q2-earnings-call-highlights"
+   ]
+  },
+  {
+   "id": "LNF",
+   "name": "Leon's Furniture (LFL Group)",
+   "short": "Leon's",
+   "ticker": "TSX: LNF",
+   "sector": "Specialty",
+   "hq": "Toronto, ON",
+   "lat": 43.73,
+   "lon": -79.53,
+   "founded": 1909,
+   "banners": "Leon's, The Brick, Brick Outlet, The Brick Mattress Store",
+   "fyEnd": "December 31",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/LNF/",
+   "notes": [
+    "The 11.8% trailing yield includes a special dividend. The regular $0.24 quarterly dividend works out to about 3.8%.",
+    "The data source's EBITDA is below its operating income, so EV/EBITDA and leverage are left blank rather than shown wrong."
+   ],
+   "ttm": {
+    "end": "2026-06-30",
+    "revenue": 2539,
+    "netIncome": 157.9,
+    "growthPct": -0.15
+   },
+   "annual": [
+    {
+     "end": "2021-12-31",
+     "revenue": 2513
+    },
+    {
+     "end": "2022-12-31",
+     "revenue": 2518
+    },
+    {
+     "end": "2023-12-31",
+     "revenue": 2455
+    },
+    {
+     "end": "2024-12-31",
+     "revenue": 2499
+    },
+    {
+     "end": "2025-12-31",
+     "revenue": 2574
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-03-31",
+     "revenue": 562.25,
+     "netIncome": 18.82,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-06-30",
+     "revenue": 617.66,
+     "netIncome": 30.17,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-09-30",
+     "revenue": 651.93,
+     "netIncome": 36.86,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-12-31",
+     "revenue": 666.69,
+     "netIncome": 67.82,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-03-31",
+     "revenue": 579.51,
+     "netIncome": 23.82,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-06-30",
+     "revenue": 644.13,
+     "netIncome": 31.84,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-09-30",
+     "revenue": 678.63,
+     "netIncome": 50.33,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-12-31",
+     "revenue": 671.45,
+     "netIncome": 51.06,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-03-31",
+     "revenue": 557.15,
+     "netIncome": 21.48,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-06-30",
+     "revenue": 631.29,
+     "netIncome": 35.03,
+     "weeks": 13,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 45.04,
+    "opMargin": 8.33,
+    "roic": 11.85,
+    "ebitda": null,
+    "debt": 478.1,
+    "cash": 366.81,
+    "employees": 8215,
+    "invTurnover": 3.36,
+    "beta": 0.95,
+    "divYield": 11.83
+   },
+   "quote": {
+    "price": 25.03,
+    "ccy": "CAD",
+    "date": "2026-10-09",
+    "mcap": 1720,
+    "lo52": 23.24,
+    "hi52": 30.22
+   },
+   "stores": {
+    "n": 301,
+    "label": "301",
+    "basis": "Corporate + franchise, all banners",
+    "date": "Jun 30, 2026",
+    "src": "https://www.newsfilecorp.com/release/308482/LFL-Releases-Second-Quarter-Financial-Results",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 35.19,
+    "ocf": 318.33,
+    "fcf": 283.14,
+    "dividends": 97.62,
+    "buybacks": 3.59,
+    "end": "2026-06-30",
+    "note": "Includes a special dividend"
+   },
+   "forecast": {
+    "fy": "FY ending Dec 2026",
+    "thisRev": 2550,
+    "thisG": -0.86,
+    "nextRev": 2620,
+    "nextG": 2.64,
+    "analysts": 7,
+    "rating": "Buy",
+    "pt": 33.21,
+    "ptLo": 25.5,
+    "ptHi": 50.0,
+    "ptCcy": "CAD",
+    "updated": "2026-10-01"
+   },
+   "guidance": null,
+   "engines": {
+    "fin": {
+     "level": "core",
+     "evidence": "Retail financing fees (falling with lower Bank of Canada rates)"
+    },
+    "services": {
+     "level": "core",
+     "evidence": "Insurance, warranty and delivery revenue rose in Q2 2026"
+    },
+    "franchise": {
+     "level": "core",
+     "evidence": "Corporate and franchise stores; 4 franchise openings in Q2 2026"
+    },
+    "digital": {
+     "level": "build",
+     "evidence": "E-commerce named as a growth investment"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-08-12",
+     "type": "Store network",
+     "action": "Four new franchise locations opened",
+     "impact": "301 stores",
+     "status": "Done"
+    },
+    {
+     "date": "2026-08-12",
+     "type": "Cost control",
+     "action": "SG&A rose to 36.85% of revenue",
+     "impact": "Same-store sales −2.2%",
+     "status": "Watch"
+    },
+    {
+     "date": "2026-08-12",
+     "type": "Liquidity",
+     "action": "Liquidity rose to $560.1M",
+     "impact": "From $454.5M",
+     "status": "Done"
+    }
+   ],
+   "actions": [
+    "Put the $560M of liquidity to work on e-commerce and fulfilment; revenue is forecast to shrink 0.9% this year.",
+    "Push insurance, warranty and delivery services to offset lower financing fees.",
+    "Bring SG&A back under 36% of revenue before any further special dividends."
+   ],
+   "sources": [
+    "https://retail-insider.com/retail-insider/2026/08/leons-furniture-reports-higher-net-income-in-second-quarter-despite-lower-sales/",
+    "https://www.newsfilecorp.com/release/308482/LFL-Releases-Second-Quarter-Financial-Results"
+   ]
+  },
+  {
+   "id": "NWC",
+   "name": "The North West Company",
+   "short": "North West",
+   "ticker": "TSX: NWC",
+   "sector": "Grocery & pharmacy",
+   "hq": "Winnipeg, MB",
+   "lat": 49.9,
+   "lon": -97.14,
+   "founded": 1668,
+   "banners": "Northern, NorthMart, Giant Tiger, Alaska Commercial, Cost-U-Less, RiteWay",
+   "fyEnd": "January 31",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/NWC/",
+   "notes": [
+    "Serves remote northern communities where it is often the only store, which supports steady margins.",
+    "Founding year reflects the Hudson's Bay Company trading posts the business descends from."
+   ],
+   "ttm": {
+    "end": "2026-07-31",
+    "revenue": 2623,
+    "netIncome": 141.68,
+    "growthPct": 0.88
+   },
+   "annual": [
+    {
+     "end": "2022-01-31",
+     "revenue": 2249
+    },
+    {
+     "end": "2023-01-31",
+     "revenue": 2353
+    },
+    {
+     "end": "2024-01-31",
+     "revenue": 2472
+    },
+    {
+     "end": "2025-01-31",
+     "revenue": 2576
+    },
+    {
+     "end": "2026-01-31",
+     "revenue": 2598
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-04-30",
+     "revenue": 617.52,
+     "netIncome": 25.53,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-07-31",
+     "revenue": 646.49,
+     "netIncome": 35.3,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-10-31",
+     "revenue": 637.45,
+     "netIncome": 35.38,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-01-31",
+     "revenue": 674.89,
+     "netIncome": 41.09,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-04-30",
+     "revenue": 641.37,
+     "netIncome": 25.84,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-07-31",
+     "revenue": 646.98,
+     "netIncome": 36.09,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-10-31",
+     "revenue": 634.32,
+     "netIncome": 40.07,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-01-31",
+     "revenue": 675.55,
+     "netIncome": 37.48,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-04-30",
+     "revenue": 631.63,
+     "netIncome": 27.35,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-07-31",
+     "revenue": 681.96,
+     "netIncome": 36.77,
+     "weeks": 13,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 34.11,
+    "opMargin": 8.54,
+    "roic": 13.86,
+    "ebitda": 314.51,
+    "debt": 475.0,
+    "cash": 102.4,
+    "employees": 7001,
+    "invTurnover": 4.78,
+    "beta": 0.49,
+    "divYield": 3.2
+   },
+   "quote": {
+    "price": 52.47,
+    "ccy": "CAD",
+    "date": "2026-09-21",
+    "mcap": 2480,
+    "lo52": 44.63,
+    "hi52": 56.77
+   },
+   "stores": {
+    "n": 230,
+    "label": "230",
+    "basis": "Northern Canada, Alaska, South Pacific, Caribbean",
+    "date": "Sep 2026",
+    "src": "https://www.marketbeat.com/instant-alerts/transcript-north-west-q2-earnings-call-highlights-2026-09-09/",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 153.48,
+    "ocf": 286.26,
+    "fcf": 132.78,
+    "dividends": 78.19,
+    "buybacks": 15.58,
+    "end": "2026-07-31",
+    "note": ""
+   },
+   "forecast": {
+    "fy": "FY ending Jan 2027",
+    "thisRev": 2680,
+    "thisG": 3.14,
+    "nextRev": 2800,
+    "nextG": 4.38,
+    "analysts": 4,
+    "rating": "Strong Buy",
+    "pt": 61.25,
+    "ptLo": 59.0,
+    "ptHi": 63.0,
+    "ptCcy": "CAD",
+    "updated": "2026-09-11"
+   },
+   "guidance": null,
+   "engines": {
+    "intl": {
+     "level": "core",
+     "evidence": "Rural Alaska, South Pacific and Caribbean stores"
+    },
+    "logistics": {
+     "level": "core",
+     "evidence": "Owns North Star Air cargo airline serving northern stores"
+    },
+    "private": {
+     "level": "build",
+     "evidence": "Next 100 program expanding private label"
+    },
+    "health": {
+     "level": "core",
+     "evidence": "Pharmacy and health services in remote communities"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-08-28",
+     "type": "Store network",
+     "action": "New store opened in Hagåtña, Guam",
+     "impact": "230 stores",
+     "status": "Done"
+    },
+    {
+     "date": "2026-09-08",
+     "type": "Fleet",
+     "action": "Bought a Basler BT-67 aircraft to replace leased planes",
+     "impact": "More purchases planned",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-08",
+     "type": "Margin",
+     "action": "Next 100 program: assortment, procurement, private label",
+     "impact": "Gross profit +5.7% in Q2",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-08",
+     "type": "Labour",
+     "action": "Labour productivity named a key H2 focus",
+     "impact": "Not quantified",
+     "status": "Planned"
+    }
+   ],
+   "actions": [
+    "Capture the multi-year First Nations settlement spending with staples and big-ticket goods.",
+    "Owning aircraft lowers freight cost; tie fleet purchases to measured cost per kilogram.",
+    "Labour productivity is the stated gap; set and publish a target."
+   ],
+   "sources": [
+    "https://www.marketbeat.com/instant-alerts/transcript-north-west-q2-earnings-call-highlights-2026-09-09/"
+   ]
+  },
+  {
+   "id": "ROOT",
+   "name": "Roots",
+   "short": "Roots",
+   "ticker": "TSX: ROOT",
+   "sector": "Apparel",
+   "hq": "Toronto, ON",
+   "lat": 43.66,
+   "lon": -79.36,
+   "founded": 1973,
+   "banners": "Roots",
+   "fyEnd": "Around January 31",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/ROOT/",
+   "notes": [
+    "Agreed to be taken private by Marquee Brands at $4.10 a share; shareholders vote Oct 13, 2026. The price is pinned just under the offer.",
+    "Near-zero net income makes its P/E meaningless."
+   ],
+   "ttm": {
+    "end": "2026-08-01",
+    "revenue": 279.04,
+    "netIncome": 0.87,
+    "growthPct": 3.94
+   },
+   "annual": [
+    {
+     "end": "2022-01-29",
+     "revenue": 273.83
+    },
+    {
+     "end": "2023-01-28",
+     "revenue": 272.12
+    },
+    {
+     "end": "2024-02-03",
+     "revenue": 262.67
+    },
+    {
+     "end": "2025-02-01",
+     "revenue": 262.92
+    },
+    {
+     "end": "2026-01-31",
+     "revenue": 277.68
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-05-04",
+     "revenue": 37.46,
+     "netIncome": -8.9,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-08-03",
+     "revenue": 47.75,
+     "netIncome": -5.24,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-11-02",
+     "revenue": 66.91,
+     "netIncome": 2.39,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-02-01",
+     "revenue": 110.81,
+     "netIncome": -21.7,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-05-03",
+     "revenue": 39.98,
+     "netIncome": -7.91,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-08-02",
+     "revenue": 50.77,
+     "netIncome": -4.39,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-11-01",
+     "revenue": 71.47,
+     "netIncome": 2.28,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-01-31",
+     "revenue": 115.46,
+     "netIncome": 14.69,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-05-02",
+     "revenue": 42.57,
+     "netIncome": -10.06,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-08-01",
+     "revenue": 49.54,
+     "netIncome": -6.04,
+     "weeks": 13,
+     "source": null
+    }
+   ],
+   "stats": {
+    "grossMargin": 61.07,
+    "opMargin": 4.55,
+    "roic": 3.38,
+    "ebitda": 23.3,
+    "debt": 106.02,
+    "cash": 8.65,
+    "employees": 1885,
+    "invTurnover": 2.55,
+    "beta": 0.48,
+    "divYield": 0.0
+   },
+   "quote": {
+    "price": 4.08,
+    "ccy": "CAD",
+    "date": "2026-09-17",
+    "mcap": 159.92,
+    "lo52": 2.82,
+    "hi52": 4.7
+   },
+   "stores": {
+    "n": 121,
+    "label": "~121",
+    "basis": "114 Canada + 7 US corporate stores (undated)",
+    "date": "Undated",
+    "src": "https://en.wikipedia.org/wiki/Roots_Canada",
+    "conf": "low"
+   },
+   "cashflow": {
+    "capex": 5.34,
+    "ocf": 33.04,
+    "fcf": 27.7,
+    "dividends": 0,
+    "buybacks": 3.73,
+    "end": "2026-05-02",
+    "note": "No dividend"
+   },
+   "forecast": null,
+   "guidance": null,
+   "engines": {
+    "intl": {
+     "level": "core",
+     "evidence": "150+ partner-operated stores in Asia"
+    },
+    "franchise": {
+     "level": "core",
+     "evidence": "Partner and other revenue $9M in Q2"
+    },
+    "digital": {
+     "level": "core",
+     "evidence": "Direct-to-consumer includes e-commerce"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Single own brand"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-09-11",
+     "type": "Ownership",
+     "action": "Agreed sale to Marquee Brands at $4.10 a share",
+     "impact": "Shareholder vote Oct 13, 2026",
+     "status": "Pending"
+    },
+    {
+     "date": "2026-09-11",
+     "type": "Store network",
+     "action": "Whistler flagship relocated after temporary closure",
+     "impact": "",
+     "status": "Done"
+    }
+   ],
+   "actions": [
+    "The $4.10 offer caps the share price; the vote on Oct 13 decides everything else.",
+    "Under a brand-management owner, expect licensing and partner revenue to grow faster than owned stores."
+   ],
+   "sources": [
+    "https://www.cp24.com/news/money/2026/09/11/roots-reports-q2-loss-sets-date-for-shareholder-vote-on-privatization-deal/"
+   ]
+  },
+  {
+   "id": "GRGD",
+   "name": "Groupe Dynamite",
+   "short": "Groupe Dynamite",
+   "ticker": "TSX: GRGD",
+   "sector": "Apparel",
+   "hq": "Mount Royal, QC",
+   "lat": 45.5,
+   "lon": -73.67,
+   "founded": 1975,
+   "banners": "Garage, Dynamite",
+   "fyEnd": "Around January 31",
+   "reportsIn": "CAD",
+   "sourceUrl": "https://stockanalysis.com/quote/tsx/GRGD/",
+   "notes": [
+    "Listed on the TSX in November 2024, so there is no 5-year beta.",
+    "Q2 (to Aug 1, 2026) revenue rose 29.8% with comparable sales up 10.3%; the trailing figures here stop one quarter earlier.",
+    "Pays a regular dividend: C$252M went to shareholders over the trailing twelve months."
+   ],
+   "ttm": {
+    "end": "2026-05-02",
+    "revenue": 1394,
+    "netIncome": 276.52,
+    "growthPct": 39.93
+   },
+   "annual": [
+    {
+     "end": "2022-01-29",
+     "revenue": 628.04
+    },
+    {
+     "end": "2023-01-28",
+     "revenue": 697.44
+    },
+    {
+     "end": "2024-02-03",
+     "revenue": 800.83
+    },
+    {
+     "end": "2025-02-01",
+     "revenue": 958.53
+    },
+    {
+     "end": "2026-01-31",
+     "revenue": 1310
+    }
+   ],
+   "quarters": [
+    {
+     "end": "2024-02-03",
+     "revenue": 240.29,
+     "netIncome": 28.6,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-05-04",
+     "revenue": 188.88,
+     "netIncome": 23.94,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-08-03",
+     "revenue": 239.1,
+     "netIncome": 40.36,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2024-11-02",
+     "revenue": 258.77,
+     "netIncome": 40.44,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-02-01",
+     "revenue": 271.77,
+     "netIncome": 31.03,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-05-03",
+     "revenue": 226.66,
+     "netIncome": 27.34,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-08-02",
+     "revenue": 326.43,
+     "netIncome": 63.89,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2025-11-01",
+     "revenue": 362.97,
+     "netIncome": 81.51,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-01-31",
+     "revenue": 394.18,
+     "netIncome": 79.45,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-05-02",
+     "revenue": 310.58,
+     "netIncome": 51.68,
+     "weeks": 13,
+     "source": null
+    },
+    {
+     "end": "2026-08-01",
+     "revenue": 423.6,
+     "netIncome": null,
+     "weeks": 13,
+     "source": "https://retailboss.co/groupe-dynamite-raises-growth-outlook-as-garage-expands-abroad/"
+    }
+   ],
+   "stats": {
+    "grossMargin": 66.89,
+    "opMargin": 31.67,
+    "roic": 57.84,
+    "ebitda": 511.11,
+    "debt": 557.5,
+    "cash": 50.81,
+    "employees": 7200,
+    "invTurnover": 7.59,
+    "beta": null,
+    "divYield": 4.32
+   },
+   "quote": {
+    "price": 53.21,
+    "ccy": "CAD",
+    "date": "2026-09-28",
+    "mcap": 5670,
+    "lo52": 44.27,
+    "hi52": 98.88
+   },
+   "stores": {
+    "n": 307,
+    "label": "307",
+    "basis": "Canada + US",
+    "date": "Aug 1, 2026",
+    "src": "https://www.cantechletter.com/newswires/groupe-dynamite-reports-strong-second-quarter-fiscal-2026-results-as-brand-heat-and-top-tier-locations-continue-to-drive-growth/",
+    "conf": "reported"
+   },
+   "cashflow": {
+    "capex": 79.87,
+    "ocf": 388.11,
+    "fcf": 308.24,
+    "dividends": 252.39,
+    "buybacks": 122.19,
+    "end": "2026-05-02",
+    "note": ""
+   },
+   "forecast": {
+    "fy": "FY ending Jan 2027",
+    "thisRev": 1650,
+    "thisG": 25.88,
+    "nextRev": 1900,
+    "nextG": 15.07,
+    "analysts": 13,
+    "rating": "Strong Buy",
+    "pt": 90.23,
+    "ptLo": 75.0,
+    "ptHi": 113.0,
+    "ptCcy": "CAD",
+    "updated": "2026-09-16"
+   },
+   "guidance": "Company outlook: revenue growth raised to 25–27%",
+   "engines": {
+    "intl": {
+     "level": "build",
+     "evidence": "Garage expanding in the U.S. (6 of 7 Q2 openings) and the UK"
+    },
+    "digital": {
+     "level": "core",
+     "evidence": "Online revenue C$61.4M in Q2, +31.5%"
+    },
+    "private": {
+     "level": "core",
+     "evidence": "Two owned brands: Garage and Dynamite"
+    }
+   },
+   "log": [
+    {
+     "date": "2026-09-10",
+     "type": "Store network",
+     "action": "24–26 gross openings and 16 closures planned this year",
+     "impact": "8–10 net new stores",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-10",
+     "type": "Store network",
+     "action": "First UK Garage open; Bullring store early 2027",
+     "impact": "International test",
+     "status": "In progress"
+    },
+    {
+     "date": "2026-09-10",
+     "type": "Margin",
+     "action": "Gross margin 68.8% on lower tariff and logistics costs",
+     "impact": "Q2",
+     "status": "Done"
+    }
+   ],
+   "actions": [
+    "Treat the UK as a test: expand only once those stores match U.S. productivity.",
+    "Keep closing weak Canadian stores while opening U.S. ones; the net count matters less than sales per store.",
+    "Growth is forecast to ease from 26% to 15%; hold marketing spend so the brand heat carries over."
+   ],
+   "sources": [
+    "https://retailboss.co/groupe-dynamite-raises-growth-outlook-as-garage-expands-abroad/",
+    "https://www.cantechletter.com/newswires/groupe-dynamite-reports-strong-second-quarter-fiscal-2026-results-as-brand-heat-and-top-tier-locations-continue-to-drive-growth/"
+   ]
+  }
+ ]
+}

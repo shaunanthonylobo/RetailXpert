@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Layout: Z-pattern dashboard. Summary KPIs top-left, signals top-right, then charts and tables.
+   Palette: two cool neutrals plus ink; red/green/amber reserved for status. Colors are RGB channels so Tailwind can apply opacity. */
+:root {
+  --canvas: 238 241 244;
+  --panel: 251 252 253;
+  --sunk: 231 235 239;
+  --line: 217 222 228;
+  --ink: 29 39 51;
+  --ink-2: 86 96 109;
+  --ink-3: 132 142 155;
+  --pos: 30 127 79;
+  --pos-soft: 225 242 232;
+  --neg: 181 54 47;
+  --neg-soft: 248 228 226;
+  --warn: 154 97 0;
+  --warn-soft: 247 236 214;
+  --s1: 74 111 165;
+  --s2: 110 86 168;
+  --s3: 43 138 154;
+  --s4: 139 115 85;
+  --s5: 63 85 104;
+  --s6: 156 111 176;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --canvas: 21 25 30; --panel: 28 33 39; --sunk: 35 41 48; --line: 46 53 62;
+    --ink: 228 232 237; --ink-2: 167 176 187; --ink-3: 111 122 135;
+    --pos: 76 195 138; --pos-soft: 26 52 40; --neg: 240 113 103; --neg-soft: 60 31 30; --warn: 224 168 74; --warn-soft: 58 45 22;
+    --s1: 127 166 219; --s2: 169 146 221; --s3: 95 193 207; --s4: 196 162 122; --s5: 154 170 187; --s6: 201 155 221;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --canvas: 21 25 30; --panel: 28 33 39; --sunk: 35 41 48; --line: 46 53 62;
+  --ink: 228 232 237; --ink-2: 167 176 187; --ink-3: 111 122 135;
+  --pos: 76 195 138; --pos-soft: 26 52 40; --neg: 240 113 103; --neg-soft: 60 31 30; --warn: 224 168 74; --warn-soft: 58 45 22;
+  --s1: 127 166 219; --s2: 169 146 221; --s3: 95 193 207; --s4: 196 162 122; --s5: 154 170 187; --s6: 201 155 221;
+  color-scheme: dark;
+}
+
+body {
+  background: rgb(var(--canvas));
+  color: rgb(var(--ink));
+  font-family: "IBM Plex Sans", "Segoe UI", system-ui, -apple-system, sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+}
+.num { font-family: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace; font-variant-numeric: tabular-nums; letter-spacing: -0.01em; }
+h1, h2, h3 { text-wrap: balance; }
+:focus-visible { outline: 2px solid rgb(var(--ink)); outline-offset: 2px; border-radius: 4px; }
+.recharts-text { font-family: "IBM Plex Mono", ui-monospace, monospace; }
+.recharts-legend-item-text { color: rgb(var(--ink-2)) !important; }
+input[type="month"], input[type="number"] { color-scheme: inherit; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
