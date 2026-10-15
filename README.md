@@ -66,6 +66,4 @@ Financial statements, cash flow and analyst consensus: StockAnalysis (S&P Global
 
 Recommendations are analysis of published figures, not company plans. **Not investment advice.**
 
-## Credits
 
-Designed and built with AI pair-programming (Claude by Anthropic).
